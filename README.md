@@ -1,9 +1,8 @@
 # 👋 Hi, I'm Amanuel Bizuayehu  
 
 ### 🚀 Full-Stack & AI Enthusiast  
-💻 Passionate developer focused on building **scalable, intelligent, and modern web applications**.  
-Skilled in **ASP.NET, Django, React, Next.js, Node.js, Express**, and **API integrations**.  
-I enjoy combining **AI, automation, and clean UI** to solve real-world problems.  
+💻 Passionate about building scalable, intelligent, and real-world software solutions.
+Skilled in ASP.NET Core, Django, React, Next.js, Python, and PostgreSQL, APIs.
 
 ---
 
